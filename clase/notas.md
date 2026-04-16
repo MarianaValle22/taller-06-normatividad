@@ -15,17 +15,21 @@ Durante la sesión trabajamos en el análisis del caso GobData, que es un portal
 En general, se avanzó bastante en la construcción del checklist. Se organizó la información y empezamos a definir criterios de cumplimiento, niveles y evidencia con base en las normas que encontramos. Esto nos dejó una buena base para seguir trabajando fuera de clase, donde vamos a completar las brechas, hallazgos y mejorar las recomendaciones.
 
 - ¿Qué se discutió con el equipo?
+
 Hablamos principalmente de cuáles normas eran más importantes para este caso y cómo organizarlas dentro del checklist. Coincidimos en que no era solo listar cosas, sino conectar cada criterio con algo normativo, por ejemplo: ISO 27001 para controles de seguridad, Ley 1581 para temas de datos personales y GDPR para reforzar temas como consentimiento y derechos del titular.
 
 También definimos trabajar sobre varias categorías clave como trazabilidad, autenticación, clasificación de datos, consentimiento, derechos ARCO y retención. La idea fue que cada una tuviera su criterio claro, su nivel (si cumple o no) y una justificación coherente. Además, dejamos claro cómo íbamos a registrar las recomendaciones para que no fueran genéricas sino aplicables al caso.
 
 - ¿Qué decisiones de modelado se tomaron?
+
 Decidimos estructurar todo como un checklist, donde cada fila representa un criterio de cumplimiento ligado a una norma específica. No queríamos algo solo descriptivo, sino que realmente sirviera para evaluar si GobData cumple o no. También acordamos que cada evaluación debía tener una justificación basada en el contexto (tipo de datos, uso de la plataforma, etc.) y que las recomendaciones debían apuntar directamente a cerrar esto. Básicamente, que sirviera tanto para analizar como para proponer mejoras.
 
 - ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
+
 Trabajamos principalmente en Excel, porque era lo más práctico para organizar todo el checklist. Ahí pudimos estructurar las columnas, ir llenando la información y dejar espacio para completar después. Además, permitió que todos trabajáramos al mismo tiempo sin complicarnos con herramientas más pesadas.
 
 - ¿Qué parte del trabajo se alcanzó a desarrollar?
+
 Durante la clase logramos armar la base del checklist y hacer una primera evaluación de varias categorías, asignando niveles de cumplimiento, justificando cada caso y proponiendo recomendaciones iniciales. También dejamos definida la forma en la que vamos a seguir trabajando fuera de clase, sobre todo para completar las cosas, ajustar mejor las recomendaciones y terminar de amarrar todo con las normas correspondientes.
 
 ## 🧩 Boceto inicial del modelo
